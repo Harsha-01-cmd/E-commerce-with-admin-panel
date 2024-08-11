@@ -1,0 +1,184 @@
+[
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Summer+Floral+Dress",
+    "title": "Summer Floral Dress",
+    "agency": "FashionHub",
+    "price": 29.99,
+    "description": "A beautiful summer dress with floral prints, perfect for a sunny day out."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Casual+Denim+Jacket",
+    "title": "Casual Denim Jacket",
+    "agency": "StyleStreet",
+    "price": 49.99,
+    "description": "A classic denim jacket that pairs well with any casual outfit."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Formal+White+Shirt",
+    "title": "Formal White Shirt",
+    "agency": "CorporateClothiers",
+    "price": 39.99,
+    "description": "A crisp white shirt, essential for any formal wardrobe."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Winter+Woolen+Coat",
+    "title": "Winter Woolen Coat",
+    "agency": "WarmWear",
+    "price": 89.99,
+    "description": "Stay warm and stylish with this premium woolen coat, designed for the coldest winters."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Athletic+Running+Shorts",
+    "title": "Athletic Running Shorts",
+    "agency": "FitGear",
+    "price": 19.99,
+    "description": "Lightweight and comfortable running shorts, perfect for your daily jog."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Vintage+Leather+Jacket",
+    "title": "Vintage Leather Jacket",
+    "agency": "RetroFashion",
+    "price": 129.99,
+    "description": "A stylish vintage leather jacket that adds an edge to any outfit."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Boho+Maxi+Skirt",
+    "title": "Boho Maxi Skirt",
+    "agency": "ChicBoho",
+    "price": 34.99,
+    "description": "A flowy maxi skirt with bohemian prints, perfect for a relaxed, trendy look."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Classic+Black+Turtleneck",
+    "title": "Classic Black Turtleneck",
+    "agency": "BasicEssentials",
+    "price": 24.99,
+    "description": "A classic black turtleneck that is a versatile addition to any wardrobe."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Elegant+Evening+Gown",
+    "title": "Elegant Evening Gown",
+    "agency": "GlamourWear",
+    "price": 199.99,
+    "description": "An elegant evening gown, perfect for formal occasions and parties."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Comfy+Lounge+Pants",
+    "title": "Comfy Lounge Pants",
+    "agency": "RelaxAtHome",
+    "price": 29.99,
+    "description": "Comfortable lounge pants that are perfect for relaxing at home."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sporty+Tracksuit",
+    "title": "Sporty Tracksuit",
+    "agency": "ActiveLife",
+    "price": 59.99,
+    "description": "A sporty tracksuit for your active lifestyle."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Chic+Blazer",
+    "title": "Chic Blazer",
+    "agency": "OfficeStyle",
+    "price": 79.99,
+    "description": "A chic blazer to elevate your professional look."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Cozy+Sweater",
+    "title": "Cozy Sweater",
+    "agency": "WinterWarmth",
+    "price": 34.99,
+    "description": "A cozy sweater to keep you warm and stylish."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Striped+T-Shirt",
+    "title": "Striped T-Shirt",
+    "agency": "CasualWear",
+    "price": 14.99,
+    "description": "A striped T-shirt for a casual and comfortable look."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Plaid+Skirt",
+    "title": "Plaid Skirt",
+    "agency": "FashionTrends",
+    "price": 39.99,
+    "description": "A trendy plaid skirt that pairs well with any top."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Slim+Fit+Jeans",
+    "title": "Slim Fit Jeans",
+    "agency": "DenimDreams",
+    "price": 49.99,
+    "description": "Slim fit jeans that offer both style and comfort."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Silk+Scarf",
+    "title": "Silk Scarf",
+    "agency": "ElegantAccessories",
+    "price": 24.99,
+    "description": "A luxurious silk scarf to add a touch of elegance."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Graphic+Hoodie",
+    "title": "Graphic Hoodie",
+    "agency": "UrbanVibes",
+    "price": 44.99,
+    "description": "A graphic hoodie that makes a bold fashion statement."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Formal+Suit",
+    "title": "Formal Suit",
+    "agency": "SuitUp",
+    "price": 149.99,
+    "description": "A formal suit perfect for business and special occasions."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Yoga+Pants",
+    "title": "Yoga Pants",
+    "agency": "ActiveWear",
+    "price": 29.99,
+    "description": "Comfortable yoga pants for your workout sessions."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Beach+Shorts",
+    "title": "Beach Shorts",
+    "agency": "SummerStyle",
+    "price": 19.99,
+    "description": "Lightweight beach shorts perfect for a day by the sea."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Woolen+Beanie",
+    "title": "Woolen Beanie",
+    "agency": "WinterAccessories",
+    "price": 14.99,
+    "description": "A woolen beanie to keep you warm during winter."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Printed+Leggings",
+    "title": "Printed Leggings",
+    "agency": "FashionFit",
+    "price": 24.99,
+    "description": "Printed leggings that combine style and comfort."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Leather+Boots",
+    "title": "Leather Boots",
+    "agency": "FootwearEssentials",
+    "price": 89.99,
+    "description": "Stylish leather boots for any occasion."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Trendy+Crop+Top",
+    "title": "Trendy Crop Top",
+    "agency": "ModernChic",
+    "price": 19.99,
+    "description": "A trendy crop top that pairs well with high-waisted jeans."
+  },
+  {
+    "url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Classic+Polo+Shirt",
+    "title": "Classic Polo Shirt",
+    "agency": "CasualClassics",
+    "price": 29.99,
+    "description": "A classic polo shirt for a smart casual look."
+  }
+]
