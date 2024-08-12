@@ -1,8 +1,17 @@
-# Ignore node_modules directory
-node_modules/
+# Node modules
+backend/node_modules/
+frontend/node_modules/
 
-# Ignore jsondata.txt file
-jsondata.txt
+# Environment files
+backend/.env
 
-# Ignore .env file
-.env
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+frontend/build/
+backend/build/
